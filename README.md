@@ -13,3 +13,8 @@
 1. Navigate to the `frontend` directory.
 2. Install dependencies : `yarn install`.
 3. Run the server: `yarn start`.
+
+## Screenshots
+![1](https://github.com/user-attachments/assets/bd448503-26d0-4fe2-836c-45c5735d76b6)
+![2](https://github.com/user-attachments/assets/4b7e321f-c454-405d-b6a3-c9160305f7d2)
+
